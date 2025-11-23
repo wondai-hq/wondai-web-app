@@ -85,6 +85,15 @@ Authentication accepts any email/password in this demo. The landing page include
 - Complete: landing page, onboarding flow, demo data, unified inbox with AI panel, smart feeds and summaries, action search, contact views, integration management, SLA dashboard, audit logs, and team settings (all mock data).
 - In progress: wiring to real backends/APIs, real-time sync, richer mobile responsiveness, and performance tuning for large message volumes.
 
+## Backend Concept Diagrams
+
+### Process Overview
+<img width="2695" height="1484" alt="image" src="https://github.com/user-attachments/assets/e493da24-791a-42d0-a65c-bcde62e5ae78" />
+
+### Detailed Process Flow Examples
+<img width="3351" height="1193" alt="image" src="https://github.com/user-attachments/assets/48d84bac-8882-41c3-bc94-08d98b358f38" />
+
+
 ## Developers
 | Name        | GitHub     | Email                    |
 | ----------- | ---------- | ------------------------ |
