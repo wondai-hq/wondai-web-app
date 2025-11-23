@@ -1,6 +1,6 @@
 
   {
-      "name": "Wondai POC",
+      "name": "Wondai Web App",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
